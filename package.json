@@ -32,6 +32,8 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "@jackbogart/dropdown-menu": "^1.0.4",
+    "@jackbogart/image-carousel": "^1.0.0",
     "normalize.css": "^8.0.1"
   }
 }
